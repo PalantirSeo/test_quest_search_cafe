@@ -1,0 +1,4 @@
+{
+  "get_all_links_from_frame": "//span[contains(text(), 'Mamamia')]",
+  "get_first_found_element": "//*[@data-attrid='kc:/location/location:address']"
+}
